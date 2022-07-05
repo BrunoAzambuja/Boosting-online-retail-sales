@@ -1,1 +1,1 @@
-# Predict-house-price-using-regression-House-Sales-in-King-County-USA
+# Boosting online retail sales: data analytics, programming and machine learning.
