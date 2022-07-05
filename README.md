@@ -1,1 +1,1 @@
-# Boosting online retail sales: data analytics, programming and machine learning.
+# Boosting Online Retail Sales: Data Analytics, Programming and Machine Learning.
