@@ -1,4 +1,4 @@
-## Sigmoidal: School of Data Science an Machine Learning
+## Sigmoidal: School of Data Science and Machine Learning
 
 Above you can view all projects developed during courser in the files.
 
