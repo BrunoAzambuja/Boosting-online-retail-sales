@@ -1,6 +1,6 @@
 ## Sigmoidal: School of Data Science and Machine Learning
 
-Above you can view all projects developed during courser in the files.
+Above you can view all projects developed during coursers in the files.
 
 These are contents that cover the main hard and soft skills, such as Statistics, Database, Web Scraping, Computer Vision, Data Storytelling, OpenCV or Dashboards.
 
