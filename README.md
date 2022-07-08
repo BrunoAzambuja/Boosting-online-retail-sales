@@ -1,20 +1,15 @@
 ## Sigmoidal: School of Data Science and Machine Learning
 
 Above you can view all projects developed during courser in the files.
-Tools: Jupyter Notebook, GitHub and Watson Studio.
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+These are contents that cover the main hard and soft skills, such as Statistics, Machine Learning, Database, Web Scraping, Computer Vision, Data Storytelling, OpenCV or Dashboards.
 
-Projects: Extracting and visualizing stock, predict housing prices, best classifier model, predicting successful rocket landing, dashboard and interactive map
-
-There are 10 Courses in this Professional Certificate:
-What is Data Science?
-Tools for Data Science
-Data Science Methodology
-Python for Data Science, AI and Development
-Python Project for Data Science
-Databases and SQL for Data Science with Python
-Data Analysis with Python
-Data Visualization with Python
-Machine Learning with Python
-Applied Data Science Capstone
+Completed courses:
+1. School of data science
+2. Probability and statistics
+3. Python from zero
+4. Introduction to SQL
+5. Web Scraping
+6. Data visualizations with Python
+7. Computer vision
+8. Creating interactive dashboards
