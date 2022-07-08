@@ -1,1 +1,2 @@
-## Boosting online retail sales: Data Analytics, Programming and Machine Learning.
+## Sigmoidal: School of Data Science and Machine Learning
+
