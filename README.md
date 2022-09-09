@@ -5,12 +5,12 @@
 These are contents that cover the main hard and soft skills, such as Statistics, Database, Web Scraping, Computer Vision, Data Storytelling, OpenCV or Dashboards.
 
 Completed courses:
-1. School of data science
-2. Probability and statistics
-3. Python from zero
+1. Creating interactive dashboards
+2. Data science in practice
+3. Data visualizations with Python
 4. Introduction to SQL
-5. Web scraping
-6. Data visualizations with Python
-7. Computer vision
-8. Creating interactive dashboards
-9. Data science in practice
+5. Probability and statistics
+6. Python from zero
+7. School of data science
+8. Web scraping
+9. Computer vision
