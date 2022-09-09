@@ -2,9 +2,9 @@
 
 #### Above you can view all projects developed during coursers in the files.
 
-The School of Data Science prepares data scientists through the internet. There are weekly classes divided between Data Science, Machine Learning, Python, personal branding, statistics, and much more.
+The Data Science School prepares data scientists through the internet. There are weekly classes divided between Data Science, Machine Learning, Python, personal branding, statistics, and much more.
 
-The Data Science School is a complete learning experience, with the mindset of bringing quality, relevant and important content to the job market. These are live and recorded classes, which have a single objective: to help you build a differentiated career in Data Science.
+It is a complete learning experience, with the mindset of bringing quality, relevant and important content to the job market. These are live and recorded classes, which have a single objective: to help you build a differentiated career in Data Science.
 
 These are contents that cover the main hard and soft skills, such as Statistics, Database, Web Scraping, Computer Vision, Data Storytelling, OpenCV or Dashboards.
 
