@@ -11,6 +11,6 @@ Completed courses:
 4. Introduction to SQL
 5. Probability and statistics
 6. Python from zero
-7. School of data science
-8. Web scraping
+7. Web scraping
+8. School of data science
 9. Computer vision
