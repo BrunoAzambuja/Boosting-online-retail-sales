@@ -9,7 +9,7 @@ Completed courses:
 2. Probability and statistics
 3. Python from zero
 4. Introduction to SQL
-5. Web Scraping
+5. Web scraping
 6. Data visualizations with Python
 7. Computer vision
 8. Creating interactive dashboards
