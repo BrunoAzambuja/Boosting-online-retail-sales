@@ -13,3 +13,4 @@ Completed courses:
 6. Data visualizations with Python
 7. Computer vision
 8. Creating interactive dashboards
+9. Data science in practice
