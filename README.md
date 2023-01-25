@@ -18,3 +18,4 @@ Completed courses:
 7. Web scraping
 8. School of data science
 9. Computer vision
+10. Python Crash Course
