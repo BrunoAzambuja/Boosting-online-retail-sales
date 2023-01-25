@@ -14,8 +14,8 @@ Completed courses:
 3. Data visualizations with Python
 4. Introduction to SQL
 5. Probability and statistics
-6. Python from zero
-7. Web scraping
-8. School of data science
-9. Computer vision
-10. Python Crash Course
+6. Python crash course
+7. Python from zero
+8. Web scraping
+9. School of data science
+10. Computer vision
